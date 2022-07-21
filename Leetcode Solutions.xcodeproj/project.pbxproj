@@ -10,6 +10,7 @@
 		60F5CC4128888FB90069E91F /* find_duplicate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = find_duplicate.cpp; sourceTree = "<group>"; };
 		60F5CC4228888FE90069E91F /* max_subarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = max_subarray.cpp; sourceTree = "<group>"; };
 		60F5CC432889A5FF0069E91F /* two_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = two_sum.cpp; sourceTree = "<group>"; };
+		60F5CC452889B0130069E91F /* merge_sorted_array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_sorted_array.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -26,6 +27,7 @@
 				60F5CC432889A5FF0069E91F /* two_sum.cpp */,
 				60F5CC4228888FE90069E91F /* max_subarray.cpp */,
 				60F5CC4128888FB90069E91F /* find_duplicate.cpp */,
+				60F5CC452889B0130069E91F /* merge_sorted_array.cpp */,
 			);
 			path = "14 Day DS";
 			sourceTree = "<group>";
