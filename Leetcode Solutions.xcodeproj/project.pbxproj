@@ -6,10 +6,19 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		60F5CC4128888FB90069E91F /* find_duplicate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = find_duplicate.cpp; sourceTree = "<group>"; };
+		60F5CC4228888FE90069E91F /* max_subarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = max_subarray.cpp; sourceTree = "<group>"; };
+		60F5CC432889A5FF0069E91F /* two_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = two_sum.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		60F5CC3728888CFA0069E91F = {
 			isa = PBXGroup;
 			children = (
+				60F5CC4128888FB90069E91F /* find_duplicate.cpp */,
+				60F5CC4228888FE90069E91F /* max_subarray.cpp */,
+				60F5CC432889A5FF0069E91F /* two_sum.cpp */,
 			);
 			sourceTree = "<group>";
 		};
@@ -22,7 +31,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastUpgradeCheck = 1340;
 			};
-			buildConfigurationList = 60F5CC3B28888CFA0069E91F /* Build configuration list for PBXProject "Leetcode Projects" */;
+			buildConfigurationList = 60F5CC3B28888CFA0069E91F /* Build configuration list for PBXProject "Leetcode Solutions" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -54,7 +63,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		60F5CC3B28888CFA0069E91F /* Build configuration list for PBXProject "Leetcode Projects" */ = {
+		60F5CC3B28888CFA0069E91F /* Build configuration list for PBXProject "Leetcode Solutions" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				60F5CC3C28888CFA0069E91F /* Debug */,
