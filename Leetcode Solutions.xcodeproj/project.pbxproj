@@ -16,10 +16,18 @@
 		60F5CC3728888CFA0069E91F = {
 			isa = PBXGroup;
 			children = (
-				60F5CC4128888FB90069E91F /* find_duplicate.cpp */,
-				60F5CC4228888FE90069E91F /* max_subarray.cpp */,
-				60F5CC432889A5FF0069E91F /* two_sum.cpp */,
+				60F5CC442889A7D00069E91F /* 14 Day DS */,
 			);
+			sourceTree = "<group>";
+		};
+		60F5CC442889A7D00069E91F /* 14 Day DS */ = {
+			isa = PBXGroup;
+			children = (
+				60F5CC432889A5FF0069E91F /* two_sum.cpp */,
+				60F5CC4228888FE90069E91F /* max_subarray.cpp */,
+				60F5CC4128888FB90069E91F /* find_duplicate.cpp */,
+			);
+			path = "14 Day DS";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
