@@ -11,12 +11,15 @@
 		60F5CC4228888FE90069E91F /* max_subarray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = max_subarray.cpp; sourceTree = "<group>"; };
 		60F5CC432889A5FF0069E91F /* two_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = two_sum.cpp; sourceTree = "<group>"; };
 		60F5CC452889B0130069E91F /* merge_sorted_array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_sorted_array.cpp; sourceTree = "<group>"; };
+		60F5CC46288BD45E0069E91F /* running_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = running_sum.cpp; sourceTree = "<group>"; };
+		60F5CC47288BD81A0069E91F /* buy_sell_stock.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = buy_sell_stock.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		60F5CC3728888CFA0069E91F = {
 			isa = PBXGroup;
 			children = (
+				60F5CC48288BD8370069E91F /* Leetcode 75 */,
 				60F5CC442889A7D00069E91F /* 14 Day DS */,
 			);
 			sourceTree = "<group>";
@@ -28,8 +31,17 @@
 				60F5CC4228888FE90069E91F /* max_subarray.cpp */,
 				60F5CC4128888FB90069E91F /* find_duplicate.cpp */,
 				60F5CC452889B0130069E91F /* merge_sorted_array.cpp */,
+				60F5CC47288BD81A0069E91F /* buy_sell_stock.cpp */,
 			);
 			path = "14 Day DS";
+			sourceTree = "<group>";
+		};
+		60F5CC48288BD8370069E91F /* Leetcode 75 */ = {
+			isa = PBXGroup;
+			children = (
+				60F5CC46288BD45E0069E91F /* running_sum.cpp */,
+			);
+			path = "Leetcode 75";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
